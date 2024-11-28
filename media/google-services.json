@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "331864922743",
+    "firebase_url": "https://bao-an-beauty-default-rtdb.firebaseio.com",
+    "project_id": "bao-an-beauty",
+    "storage_bucket": "bao-an-beauty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331864922743:android:fbec4d279c57ad65120472",
+        "android_client_info": {
+          "package_name": "vn.baoanbeautyspa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331864922743-rd9uo4458e525sapbsvjdkelsdquiqsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjQjIOw5YOAMdpb8maDOSZXVd_aEYf-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331864922743-rd9uo4458e525sapbsvjdkelsdquiqsr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "331864922743-t58bpf80t3fual374t5ui86df99lgtlu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.baoanbeautyspa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
